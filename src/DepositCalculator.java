@@ -37,3 +37,4 @@ public class DepositCalculator {
         new DepositCalculator().openDeposit();
     }
 }
+//Очень хороший и легко читаемый код, насколько я вижу, правила code style соблюдены. У меня нет замечаний.
